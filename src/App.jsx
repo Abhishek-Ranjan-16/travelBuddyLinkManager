@@ -4,12 +4,13 @@ const App = () => {
   return (
     <div>
       <div>
-        Git Link Manager For <a href="https://github.com/Abhishek-Ranjan-16/Travel-Buddy.git">Travel Buddy</a>
+        Git Link Manager For <a href="https://abhishek-ranjan-16.github.io/Travel-Buddy/">Travel Buddy</a>
       </div>
       <p>
         Below are the github links of the features that are implemented in travel buddy along with the homepage link.
       </p>
       <ul>
+        <li><a href="https://github.com/Abhishek-Ranjan-16/Travel-Buddy.git">Travel Buddy Homepage</a></li>
         <li><a href="https://github.com/Abhishek-Ranjan-16/expenseTracker.git">Expense Tracker</a></li>
         <li><a href="https://github.com/Abhishek-Ranjan-16/rpg.git">Password Generator</a></li>
         <li><a href="https://github.com/Abhishek-Ranjan-16/pass-manager.git">Password Manager</a></li>
